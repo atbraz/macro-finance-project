@@ -1,5 +1,5 @@
 regime,share_IV_underpriced,p95_RV_minus_IV,worst_RV_minus_IV,alpha_left(losses),ann_vol_%,recommended_posture
-Calm,0.162,6.218,67.732,3.19,12.19,"CAUTION: trim inventory, modest pre-event spread widening"
-Inflationary,0.335,7.028,12.996,2.79,12.59,"CAUTION: trim inventory, modest pre-event spread widening"
-Tightening-stress,0.152,4.519,34.852,3.89,17.06,"CAUTION: trim inventory, modest pre-event spread widening"
-Crisis,0.178,14.557,60.271,2.66,36.37,REDUCE inventory · WIDEN spreads · raise hedge frequency · cut overnight risk
+Calm,0.168,4.672,16.689,3.28,11.76,"CAUTION: trim inventory, modest pre-event spread widening"
+Inflationary,0.147,8.379,67.732,2.82,11.71,"CAUTION: trim inventory, modest pre-event spread widening"
+Tightening-stress,0.172,5.993,34.852,4.51,20.99,REDUCE inventory · WIDEN spreads · raise hedge frequency · cut overnight risk
+Crisis,0.293,35.664,60.271,2.94,44.86,REDUCE inventory · WIDEN spreads · raise hedge frequency · cut overnight risk
