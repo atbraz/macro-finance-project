@@ -1,0 +1,13 @@
+file,description,exists,size_kb
+raw/fred_raw.parquet,"All FRED series (vol, rates, full-history credit BAA10Y, FCIs, macro levels)",True,203.4
+raw/crsp_market_index.parquet,CRSP daily value-weighted market index + sprtrn (2006+),True,223.5
+raw/crsp_sp500.parquet,"CRSP S&P 500 index level + return (dsp500_v2, 2006+)",True,121.7
+raw/virt_daily.parquet,Virtu (VIRT) daily price/return/volume (2015 IPO+),True,112.4
+raw/virt_fundamentals_q.parquet,Virtu Compustat quarterly fundamentals,True,12.1
+raw/spx_ivsurface.parquet,"OptionMetrics SPX implied-vol surface (full delta grid, 2006+)",True,5391.7
+raw/fomc_dates.parquet,FOMC decision dates,True,2.1
+raw/release_calendar.parquet,CPI/NFP/GDP/PCE/Unemployment/FOMC release dates (ALFRED first-vintage),True,12.7
+clean/derived_vol_series.parquet,"RV, IV, VRP, vol-of-vol, RV-IV gap",True,333.9
+clean/macro_surprises.parquet,CPI/NFP/etc surprise proxies (random-walk based),True,150.9
+clean/spx_iv_30d_atm.parquet,30-day ATM SPX implied vol series,True,92.0
+clean/master_daily_panel.parquet,Aligned daily panel for regime classification,True,324.7

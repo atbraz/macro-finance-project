@@ -1,0 +1,5 @@
+regime,days,avg_RV_minus_IV,p95_RV_minus_IV,worst_RV_minus_IV,share_IV_underpriced
+Calm,2524,-2.647,6.218,67.732,0.162
+Inflationary,379,-1.496,7.028,12.996,0.335
+Tightening-stress,1038,-5.198,4.519,34.852,0.152
+Crisis,819,-4.044,14.557,60.271,0.178
